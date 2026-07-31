@@ -3,8 +3,11 @@ RTL Design, Synthesis, and Gate Level Simulation using Iverilog , GTKWave, and Y
 
 Tools Used
 **IVERILOG**-Verilog simulation
+
 **GTKWave** -Waveform viewer
+
 **YOSYS** - RTL synthesis
+
 **sky130 PDK** - standard cell library
 
 **CONTENTS**
