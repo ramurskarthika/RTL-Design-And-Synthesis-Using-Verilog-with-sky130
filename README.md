@@ -9,7 +9,7 @@ Tools Used
 
 **CONTENTS**
 
-| Day 1 | Introduction to Verilog RTL design and Synthesis | [Day1_Introduction_to_verilog](./Day1_Introduction_to_verilog) |
+ [Day1_Introduction_to_verilog](./Day1_Introduction_to_verilog) |
 
 | Day 2 | Timing Libraries, Hierarchical vs Flat Synthesis, Flip-Flop Coding Styles | [Day2_Timing_libs_synthesis](./Day2_Timing_libs_synthesis) |
 
